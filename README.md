@@ -1,2 +1,2 @@
 # FedSepsis
-FedSepsis: A federated multi-modal deep learning-based application for early detection of  sepsis utilizing Raspberry Pi and Jetson Nano devices
+FedSepsis: A Federated Multi-Modal Deep Learning-Based Internet of Medical Things Application for Early Detection of Sepsis from Electronic Health Records Using Raspberry Pi and Jetson Nano Devices
