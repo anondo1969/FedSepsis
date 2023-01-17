@@ -1,5 +1,11 @@
 #!/bin/sh
 
+#author: Mahbub Ul Alam (mahbub@dsv.su.se)
+#version: 1.0+
+#copyright: Copyright (c) Mahbub Ul Alam (mahbub@dsv.su.se)
+#license : MIT License
+
+
 #sh run_batch_numeric_experiments.sh -e 1 -b 1000 -s episode_wise_precision &>> log_1_experiment_numeric.txt &
 
 
