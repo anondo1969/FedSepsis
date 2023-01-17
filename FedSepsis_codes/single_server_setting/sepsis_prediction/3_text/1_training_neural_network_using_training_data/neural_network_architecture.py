@@ -2,9 +2,8 @@
 
 '''
 @author: Mahbub Ul Alam (mahbub@dsv.su.se)
-@date: 25.01.2019
 @version: 1.0+
-@copyright: Copyright (c)  2019-2020, Mahbub Ul Alam (mahbub@dsv.su.se)
+@copyright: Copyright (c) Mahbub Ul Alam (mahbub@dsv.su.se)
 @license : MIT License
 '''
 
