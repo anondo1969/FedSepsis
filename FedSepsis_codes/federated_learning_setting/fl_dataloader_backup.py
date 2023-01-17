@@ -1,3 +1,9 @@
+'''
+@author: Mahbub Ul Alam (mahbub@dsv.su.se)
+@version: 1.0+
+@copyright: Copyright (c) Mahbub Ul Alam (mahbub@dsv.su.se)
+@license : MIT License
+'''
 import argparse
 import logging
 import os
