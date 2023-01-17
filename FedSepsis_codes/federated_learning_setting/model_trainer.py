@@ -1,13 +1,14 @@
+'''
+@author: Mahbub Ul Alam (mahbub@dsv.su.se)
+@version: 1.0+
+@copyright: Copyright (c) Mahbub Ul Alam (mahbub@dsv.su.se)
+@license : MIT License
+'''
 from abc import ABC, abstractmethod
 
 
 class ModelTrainer(ABC):
-    """Abstract base class for federated learning trainer.
-       1. The goal of this abstract class is to be compatible to
-       any deep learning frameworks such as PyTorch, TensorFlow, Keras, MXNET, etc.
-       2. This class can be used in both server and client side
-       3. This class is an operator which does not cache any states inside.
-    """
+   
     def __init__(self, model, args=None):
         self.model = model
         self.id = 0
