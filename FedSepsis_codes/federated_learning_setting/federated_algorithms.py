@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+'''
+@author: Mahbub Ul Alam (mahbub@dsv.su.se)
+@version: 1.0+
+@copyright: Copyright (c) Mahbub Ul Alam (mahbub@dsv.su.se)
+@license : MIT License
+'''
 import copy
 
 import numpy as np
@@ -48,7 +53,7 @@ def average_weights(w, datasize):
             w_avg[key] += w[i][key]
         w_avg[key] = torch.div(w_avg[key], float(sum(datasize)))
 
-    # when client use various devices (cpu, gpu) you need to use it instead
+    # when client use various devices (cpu, gpu)
     #
     #     for key, val in w_avg.items():
     #         common_device = val.device
@@ -122,7 +127,7 @@ def average_weights_simple(w):
 
         w_avg[key] = torch.div(w_avg[key], len(w))
 
-    # when client use various devices (cpu, gpu) you need to use it instead
+    # when client use various devices (cpu, gpu)
     #
     #     for key, val in w_avg.items():
     #         common_device = val.device
