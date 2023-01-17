@@ -1,5 +1,9 @@
 #!/bin/sh
 
+#author: Mahbub Ul Alam (mahbub@dsv.su.se)
+#version: 1.0+
+#copyright: Copyright (c) Mahbub Ul Alam (mahbub@dsv.su.se)
+#license : MIT License
 
 #sh run_numeric_and_text_experiments.sh -x 27 -b 500 -h 800 -H 3 -d 0 -e 3 -i GAN_imputed_100_alpha -c Huang -C long
 
