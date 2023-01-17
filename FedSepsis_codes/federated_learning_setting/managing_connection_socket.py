@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+'''
+@author: Mahbub Ul Alam (mahbub@dsv.su.se)
+@version: 1.0+
+@copyright: Copyright (c) Mahbub Ul Alam (mahbub@dsv.su.se)
+@license : MIT License
+'''
 import struct
 import pickle
 
