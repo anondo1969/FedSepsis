@@ -1,5 +1,11 @@
 #!/bin/sh
 
+#author: Mahbub Ul Alam (mahbub@dsv.su.se)
+#version: 1.0+
+#copyright: Copyright (c) Mahbub Ul Alam (mahbub@dsv.su.se)
+#license : MIT License
+
+
 #sh run_batch_text_experiments.sh -e 50 -b 500 -c Huang -t short -s episode_wise_precision -l 1 &>> new_huang_50_500_short.txt &
 
 #['imputed', 'non_imputed', 'GAN_imputed_10_alpha', 'GAN_imputed_100_alpha']
