@@ -1,5 +1,11 @@
 #!/bin/sh
 
+#author: Mahbub Ul Alam (mahbub@dsv.su.se)
+#version: 1.0+
+#copyright: Copyright (c) Mahbub Ul Alam (mahbub@dsv.su.se)
+#license : MIT License
+
+
 #sh run_all_text_experiments.sh -e 1 -b 1
 
 while getopts e:b: flag
