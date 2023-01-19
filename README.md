@@ -19,17 +19,18 @@ Alam MU, Rahmani R. FedSepsis: A Federated Multi-Modal Deep Learning-Based Inter
 ### Bibtex Format for Citation
 
 ```
-  @article{alam2023,
-  author={Alam, Mahbub Ul and Rahmani, Rahim},
-  title={FedSepsis: A Federated Multi-Modal Deep Learning-Based Internet of Medical Things Application for Early Detection of Sepsis from Electronic Health Records Using Raspberry Pi and Jetson Nano Devices}, 
-  volume={23}, ISSN={1424-8220}, 
-  url={http://dx.doi.org/10.3390/s23020970}, 
-  DOI={10.3390/s23020970}, number={2}, journal={Sensors}, 
-  publisher={MDPI AG},  
-  year={2023}, 
-  month={Jan}, 
-  pages={970} 
-  }
+@Article{s23020970,
+AUTHOR = {Alam, Mahbub Ul and Rahmani, Rahim},
+TITLE = {FedSepsis: A Federated Multi-Modal Deep Learning-Based Internet of Medical Things Application for Early Detection of Sepsis from Electronic Health Records Using Raspberry Pi and Jetson Nano Devices},
+JOURNAL = {Sensors},
+VOLUME = {23},
+YEAR = {2023},
+NUMBER = {2},
+ARTICLE-NUMBER = {970},
+URL = {https://www.mdpi.com/1424-8220/23/2/970},
+ISSN = {1424-8220},
+DOI = {10.3390/s23020970}
+}
 ```
 
 
